@@ -1,4 +1,0 @@
-conf
-====
-
-Configuration (aka dotfiles)
