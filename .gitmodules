@@ -1,0 +1,54 @@
+[submodule "_vim/bundle/fugitive"]
+	path = _vim/bundle/fugitive
+	url = http://github.com/tpope/vim-fugitive.git
+[submodule "_vim/bundle/vim-snipmate"]
+	path = _vim/bundle/vim-snipmate
+	url = https://github.com/garbas/vim-snipmate.git
+[submodule "_vim/bundle/vim-surround"]
+	path = _vim/bundle/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "_vim/bundle/git"]
+	path = _vim/bundle/git
+	url = https://github.com/tpope/vim-git.git
+[submodule "_vim/bundle/supertab"]
+	path = _vim/bundle/supertab
+	url = https://github.com/ervandew/supertab.git
+[submodule "_vim/bundle/minibufexpl"]
+	path = _vim/bundle/minibufexpl
+	url = https://github.com/sontek/minibufexpl.vim.git
+[submodule "_vim/bundle/gundo"]
+	path = _vim/bundle/gundo
+	url = https://github.com/sjl/gundo.vim.git
+[submodule "_vim/bundle/tasklist"]
+	path = _vim/bundle/tasklist
+	url = https://github.com/vim-scripts/TaskList.vim.git
+[submodule "_vim/bundle/nerdtree"]
+	path = _vim/bundle/nerdtree
+	url = https://github.com/vim-scripts/The-NERD-tree.git
+[submodule "_vim/bundle/vim-colors-solarized"]
+	path = _vim/bundle/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "_vim/bundle/vim-quickrun-hook-sphinx"]
+	path = _vim/bundle/vim-quickrun-hook-sphinx
+	url = https://github.com/heavenshell/vim-quickrun-hook-sphinx.git
+[submodule "_vim/bundle/vim-quickrun"]
+	path = _vim/bundle/vim-quickrun
+	url = https://github.com/thinca/vim-quickrun.git
+[submodule "_vim/bundle/mw-utils"]
+	path = _vim/bundle/mw-utils
+	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
+[submodule "_vim/bundle/tlib_vim"]
+	path = _vim/bundle/tlib_vim
+	url = https://github.com/tomtom/tlib_vim.git
+[submodule "_vim/bundle/snipmate-snippets"]
+	path = _vim/bundle/snipmate-snippets
+	url = https://github.com/honza/snipmate-snippets.git
+[submodule "_vim/bundle/vcscommand"]
+	path = _vim/bundle/vcscommand
+	url = https://github.com/vim-scripts/vcscommand.vim.git
+[submodule "_vim/bundle/svndiff"]
+	path = _vim/bundle/svndiff
+	url = https://github.com/vim-scripts/svndiff.git
+[submodule "_vim/bundle/vim-extradite"]
+	path = _vim/bundle/vim-extradite
+	url = https://github.com/int3/vim-extradite.git
