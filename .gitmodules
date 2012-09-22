@@ -52,3 +52,6 @@
 [submodule "_vim/bundle/vim-extradite"]
 	path = _vim/bundle/vim-extradite
 	url = https://github.com/int3/vim-extradite.git
+[submodule "_vim/bundle/pathogen-vim"]
+	path = _vim/bundle/pathogen-vim
+	url = https://github.com/tpope/vim-pathogen.git
